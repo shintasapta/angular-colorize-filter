@@ -1,13 +1,12 @@
 # angular-colorize-filter
-This is the function to make custom filter on angularjs view, i made it for filtering the string of the number and colorize the character in IDR currency
+> This is the function to make custom filter on angularjs view, i made it for filtering the string of the number and colorize the character in IDR currency
 
 ## Case
 
 
-<img src="colorize.png" align="left" />
-<br>
+![](colorize.png)
 
-<p>I wanna to colorize my string like image above, i use angularjs filter to solve the problem. With ng bind htnl directive, i return the html code for my filter result and i decide how much digit what i want to colorize it. This is the sample to use it.</p>
+I wanna to colorize my string like image above, i use angularjs filter to solve the problem. With ng bind htnl directive, i return the html code for my filter result and i decide how much digit what i want to colorize it. This is the sample to use it.
 
 ## Example View
 
