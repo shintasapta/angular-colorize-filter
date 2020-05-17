@@ -6,7 +6,7 @@
 
 ![](colorize.png)
 
-I wanna to colorize my string like image above, i use angularjs filter to solve the problem. With ng bind html directive, i return the html code for my filter result and i decide how much digit what i want to colorize it. This is the sample to use it.
+I want to colorize my string like image above, i use angularjs filter to solve the problem. With ng bind html directive, i return the html code for my filter result and i decide how much digit what i want to colorize it. This is the sample to use it.
 
 ## Example View
 
